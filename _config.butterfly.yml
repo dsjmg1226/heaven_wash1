@@ -18,3 +18,8 @@ aside:
   card_author:
     button:
       link: https://github.com/dsjmg1226
+
+# 数学公式渲染（笔记中的 $...$ LaTeX）
+math:
+  use: katex
+  per_page: true
