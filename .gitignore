@@ -1,0 +1,11 @@
+# 依赖
+node_modules/
+
+# Hexo 构建产物与缓存
+public/
+db.json
+.deploy_git/
+
+# 系统文件
+.DS_Store
+Thumbs.db

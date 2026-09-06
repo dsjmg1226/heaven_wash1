@@ -4,16 +4,16 @@
 
 # Site
 title: Heaven Washing Machine's BLOG
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+subtitle: 个人博客
+description: 一个计算机学生的学习和思考
+keywords: [数据库, 计算机, 学习笔记]
+author: 天鸡
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://heaven-wash.top
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
