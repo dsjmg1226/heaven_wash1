@@ -12,3 +12,9 @@ menu:
 mermaid:
   enable: true
   code_write: true
+
+# 侧边栏作者卡片 Follow 按钮 → 指向真实 GitHub
+aside:
+  card_author:
+    button:
+      link: https://github.com/dsjmg1226
