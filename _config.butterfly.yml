@@ -19,7 +19,7 @@ aside:
     button:
       link: https://github.com/dsjmg1226
 
-# 数学公式渲染（笔记中的 $...$ LaTeX）
+# 数学公式渲染（笔记中的 $...$ LaTeX；MathJax 前端渲染，支持单 $ 分隔符）
 math:
-  use: katex
+  use: mathjax
   per_page: true
